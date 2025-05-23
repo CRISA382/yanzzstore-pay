@@ -1,1 +1,1 @@
-# yanzzstore-pay
+# yanzzstore-payment
